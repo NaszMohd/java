@@ -16,7 +16,7 @@ public static void main (String [] args){
     Fruits fruit = new Fruits ();
     Scanner sc = new Scanner (System.in);
 
-
+    // edit now
     System.out.println ("<----------Sunshine Friuts Shop---------->");
     System.out.println ("");
     System.out.println ("  <--------Fruits Price's Code-------->");
